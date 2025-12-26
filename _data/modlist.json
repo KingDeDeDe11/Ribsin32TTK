@@ -3,25 +3,799 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
+    "version": "2.4.2.0"
   },
   {
-    "author": "Kosaro",
-    "name": "Fahrenheit and Celsius",
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "3521312241",
+    "version": "1.6+7e77b7fdba2daa472a5b7c2b35ac17c149dffa99"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (1.0 to 1.3) & TheRealLemon",
+    "name": "Faction Control (1.4-1.6)",
+    "steamId": "2882785581",
+    "version": "1.0.9330.40927"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
+    "name": "Vanilla Factions Expanded - Medieval 2",
+    "steamId": "3444347874",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth 2",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": "3219596926",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "Keshash",
+    "name": "Layered Wall Destruction",
+    "steamId": "3024527775",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.5.0.8"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder and Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Helixien Gas Expanded",
+    "steamId": "2877699803",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Weilbyte",
+    "name": "Snap Out!",
+    "steamId": "1319782555",
+    "version": "0.9.1"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": "2069684319",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] BCD: First Aid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] CPERS: Arrest Here!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seeki",
+    "name": "AAAA(Allowed Area Automatic Adapter)",
+    "steamId": "3264193512",
+    "version": "4.0.1.0"
+  },
+  {
+    "author": "vin",
+    "name": "Adaptive Primitive Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Age of Sail",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "swablu",
+    "name": "Ambient Rim",
+    "steamId": "3158997430",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Amnabi",
+    "name": "Amnabi's Flags (Continued)",
+    "steamId": "2592638428",
+    "version": "1.6.0"
+  },
+  {
+    "author": "TheVillain",
+    "name": "Animal Foods Extended",
+    "steamId": "2971675296",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "1.6.1.3+e339a5ca077cefe8005be09579a729a812fe01c7"
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Blood Animations",
+    "steamId": "3228047321",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Defi",
+    "name": "Blueprints Forked - 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evyatar108",
+    "name": "Body Type Matters Redux",
+    "steamId": "3107452463",
+    "version": "1.0.0+2d930c2910537faff586ea8fa61433d9d0f5a204"
+  },
+  {
+    "author": "peldor",
+    "name": "Brrr and Phew (Continued)",
+    "steamId": "2195938471",
+    "version": "1.6.2"
+  },
+  {
+    "author": "AobaKuma OttersHoldHands iforgotmysocks",
+    "name": "Camping Tent",
+    "steamId": "2407128339",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "iforgotmysocks",
+    "name": "Caravan Adventures",
+    "steamId": "2558957509",
+    "version": "1.8.3.0"
+  },
+  {
+    "author": "Kopp",
+    "name": "Caravan Formation Improvements",
+    "steamId": "2927335733",
+    "version": "1.0.12.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Cash Register (Continued)",
+    "steamId": "3509487668",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Gastronomy (Continued)",
+    "steamId": "3509488152",
+    "version": "1.5.0.4"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": "",
+    "version": "1.0.0+8623404d2dc20701a19f759011c53fdbc50da4bc"
+  },
+  {
+    "author": "Mewn Goddess",
+    "name": "Cash Register Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hexacon",
+    "name": "Chemfuel Retextured : For Medieval and Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PlushBanshee",
+    "name": "Clean Helixien Gas Geyser Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ren7z",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.6.4553.2"
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Medieval Tools",
+    "steamId": "3028566550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9416.33549"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": "2978572782",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Cybranian - Name Bank",
+    "steamId": "3461429372",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Small Hot Spring (Continued)",
+    "steamId": "3171013935",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "NightmareCorporation",
+    "name": "DBH & VFEC/Hot Spring Compatibility",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": "2896207870",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rabiosus",
+    "name": "Draw From Center",
+    "steamId": "3553713342",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pelador",
+    "name": "Drug Response (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "R For Reload",
+    "name": "Edges of Acceptance",
+    "steamId": "3165242067",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Enemy Self Preservation (Continued)",
+    "steamId": "3547114006",
+    "version": "1.6.0"
+  },
+  {
+    "author": "SmArtKar and ilyvion",
+    "name": "Enhanced Beliefs (Updated)",
+    "steamId": "3541739031",
+    "version": "0.4.3+2b156769745de63957d7f2542a5bde53a6ac802a"
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Entosomnia - Medieval Cryptosleep",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Body Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Keshash",
+    "name": "Extra Explosion Effects",
+    "steamId": "3066208882",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Famine Food",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hazzer",
+    "name": "Fish Traps",
+    "steamId": "2594468074",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "al9000",
+    "name": "Flintlocks Extended",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Various",
+    "name": "Realistic Planets 1.6",
+    "steamId": "3533147031",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.7.11+fb08cf0c8ced2b8463f6ea26928b369e0796a3a0"
+  },
+  {
+    "author": "Gerrymon",
+    "name": "Gerrymon's Medieval DBH Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Guards For Me",
+    "steamId": "1855885448",
+    "version": "3.0.10.0"
+  },
+  {
+    "author": "Ivelischt",
+    "name": "Hay doesn't need Cooling!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CiXwOw",
+    "name": "Helixien Gas Boiler",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CiXwOw",
+    "name": "Helixien Gas Brazier",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lewkah0",
+    "name": "Home Sweet Home (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Spa",
+    "steamId": "2971831654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Taggerung",
+    "name": "I Aint Building That",
+    "steamId": "3118060751",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "I will be back",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seromas",
+    "name": "Layered Wall Destruction - Additional Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nekoemi and zed_0xff",
+    "name": "Loft Bed (Continued)",
+    "steamId": "3531523881",
+    "version": "1.0.0+34a405c193ad51f011582f6a1cedd34592359bde"
+  },
+  {
+    "author": "Zylle",
+    "name": "Map Designer",
+    "steamId": "2111424996",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Talesoftherim",
+    "name": "Mass Graves 1.6",
+    "steamId": "3545739596",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
+  },
+  {
+    "author": "Seti",
+    "name": "Medieval Adventures: Hunts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AssassinsBro",
+    "name": "Medieval Backstories No HAR",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": "2646321064",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GrassTypeFire",
+    "name": "Medieval Backstories Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimThemes",
+    "steamId": "1668983184",
+    "version": "2025.0.1.2"
+  },
+  {
+    "author": "Thale",
+    "name": "Medieval Era RimTheme",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Satpyn",
+    "name": "Medieval Extras (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BotchJob",
+    "name": "Medieval Fantasy Themed Relic Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rince",
+    "name": "Medieval Go-juice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Lighting and Heat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joe Daly",
+    "name": "Medieval Medicines Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bonible",
+    "name": "Medieval Melee Sounds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sugar_Show",
+    "name": "Medieval Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO and Soky",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Caravan (Continued)",
+    "steamId": "2886919774",
+    "version": "1.6.0"
+  },
+  {
+    "author": "ferny",
+    "name": "Worldbuilder",
+    "steamId": "3522102833",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "World Tech Level",
+    "steamId": "3414187030",
+    "version": "1.1.6+bf90ea8ff0feda8d371e4abab9ecf71ba95f85b6"
+  },
+  {
+    "author": "Sl4vP0weR",
+    "name": "We Are United",
+    "steamId": "3030804445",
+    "version": "1.0.0+2243b9e96c1f4dd01438e3c0f70c35d905af0510"
+  },
+  {
+    "author": "llunak",
+    "name": "Water Is Cold (fork)",
+    "steamId": "3535154222",
+    "version": "1.0.0+010c6648758cd6e3ac7d19fd45c9179fc4b9f3e2"
+  },
+  {
+    "author": "Ogliss",
+    "name": "WanderJoinsPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Organ jars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Alestria",
+    "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and xrushha",
+    "name": "Vanilla Ideology Expanded - Hats and Rags",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Animals Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VandarOrlevard",
+    "name": "Vandar's Medieval BiosolidsComposter Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katsudon",
+    "name": "UI Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.9303.23067"
   },
   {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -30,9 +804,351 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Neronix17",
+    "name": "Tweaks Galore",
+    "steamId": "2695164414",
+    "version": "1.6.9474.25609"
+  },
+  {
+    "author": "PrinceOfPluto",
+    "name": "Trains of the Rim",
+    "steamId": "3530446424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "al9000",
+    "name": "Tastier Vanilla Clothes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.6.9381.38076"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Stranger In Black Techlevel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Steampunk: Power Conduit (Continued)",
+    "steamId": "3147759985",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Andromeda",
+    "name": "Stack gap",
+    "steamId": "3071298014",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Krelinos",
+    "name": "Social Experience from Trade",
+    "steamId": "3400608063",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Scone",
+    "name": "Snow IS Beautiful!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.6.1"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Stokes52",
+    "name": "Simple Cape and Hood Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jelheb",
+    "name": "Rustic Meal Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "user19990313, louize and RunningBugs",
+    "name": "RuntimeGC [1.6] fork2",
+    "steamId": "3528496623",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "RunAndGun - Continued",
+    "steamId": "3562365100",
+    "version": "1.0.0+efcf8e022d51add92cad5d29b26e9c2cfedcb800"
+  },
+  {
+    "author": "Mlie",
+    "name": "Run and Hide (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.6.1"
+  },
+  {
+    "author": "trocapalot",
+    "name": "Rimworld: Soundscape Enhanced",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "juicy",
+    "name": "RimTalk",
+    "steamId": "3551203752",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.27"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": "1.17.5+6f1dbfc3ba1196ab081ee4d382101ddd6b23badb"
+  },
+  {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.9.5"
+  },
+  {
+    "author": "Ogliss",
+    "name": "RescueeJoinsPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ferny",
+    "name": "ReplaceLib",
+    "steamId": "3417393194",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Zaire82",
+    "name": "ReGrowth ReTextures Patches",
+    "steamId": "3410715318",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Noxilie",
+    "name": "ReGrowth 2 World Map Beautification for Realistic Planets 1.6",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Prisoners Dont Have Keys",
+    "steamId": "2595360307",
+    "version": "1.6.0"
+  },
+  {
+    "author": "oBerry",
+    "name": "Prisoner Recreation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Village Guy",
+    "name": "Primitive moisture pump",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "llunak",
+    "name": "Pathfinding Avoidance",
+    "steamId": "3530140490",
+    "version": "1.0.0+2ec99e3f55bb228c4810e56352a2740eb128ae56"
+  },
+  {
+    "author": "Joedox",
+    "name": "Patches: Medieval Overhaul - Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Laureeeeeeeeeeeeeeen",
+    "name": "No Water Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Leon",
+    "name": "No Increased Expectations for Triumvirates (Vanilla Ideology Expanded - Memes and Structures Patch)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0+32551f73e65d34500ac07f551a02ee533c35587a"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted: No Crushed Bodies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning (Continued)",
+    "steamId": "3554743746",
+    "version": "1.6.4"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.6.4"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Mod Error Checker",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aqued",
+    "name": "MO Loft Bed Mod",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Serek512",
+    "name": "Misc. Training Medieval Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mewn Goddess",
+    "name": "Medieval Signs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "死萌",
+    "name": "Medieval Repair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
+    "steamId": "2101545242",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Medieval Overhaul : Hornetkeeping",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JoeOwnage",
+    "name": "Medieval Overlap Remover",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Adaptive Storage",
+    "steamId": "3425601715",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fodofox",
+    "name": "Medieval Overhaul: Immersive Storage Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GA-YUKI",
+    "name": "Medieval Overhaul: Air Vehicles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zenlor",
+    "name": "Medieval Overhaul Tweaks",
+    "steamId": "2730497766",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Viral Reaction",
+    "name": "Medieval Overhaul Patches",
+    "steamId": "3015529451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mewn Goddess",
+    "name": "Medieval Overhaul Extra Signs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Phant0m5",
+    "name": "Medieval Overhaul Deep Vein Mining",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jabba and BasiltheBatlord",
+    "name": "Medieval Overhaul - Component Replacement Patch - (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Liuyu",
+    "name": "Medieval Overhaul - Adaptive Storage Graphic Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   }
 ]
